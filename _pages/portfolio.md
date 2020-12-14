@@ -7,4 +7,4 @@ title: "Portfolio"
 
 
 
-<img src="{{site.baseurl}}/assets/images/mapscreencap_stormvuln.png">
+<img src="{{easternhercules.github.io}}/assets/images/mapscreencap_stormvuln.png">
