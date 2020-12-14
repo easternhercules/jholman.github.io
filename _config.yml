@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Julian Holman"
   avatar : "/assets/images/bio_photo.jpg"
-  bio    : "UMBC Geography & Environmental Systems MS '20, BA + GIS Certificate '18"
+  bio    : "UMBC Geography & Environmental Systems MS '21, BA + GIS Certificate '18"
   links:
     - label: "Main"
       icon: "fas fa-fw fa-link"
