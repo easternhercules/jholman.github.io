@@ -4,9 +4,8 @@ title: "Portfolio"
 ---
 
 <b>2021</b><br>
-<div class="img__wrap">
-<img class="img__img" src="/assets/images/presscreencap_thesis.png" alt="Sentiment Analysis of Human-Arthropod Interactions"/>
-<i>Thesis: Sentiment Analysis of Human-Arthropod Interactions (in review)</i>
+<div class="img__wrap"><img class="img__img" src="/assets/images/presscreencap_thesis.png" alt="Sentiment Analysis of Human-Arthropod Interactions"/>
+  <i>Thesis: Sentiment Analysis of Human-Arthropod Interactions (in review)</i>
 </div><br>
 
 
