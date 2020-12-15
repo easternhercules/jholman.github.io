@@ -3,7 +3,7 @@ permalink: /portfolio/
 title: "Portfolio"
 ---
 
-<b>2021</b><br>
+<b>2021</b><br><br>
 Thesis: Sentiment Analysis of Human-Arthropod Interactions (in review)
 
 <b>2020</b>
