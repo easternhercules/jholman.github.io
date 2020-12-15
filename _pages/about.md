@@ -7,4 +7,4 @@ I'm Julian. I live in the Washington, DC metropolitan area, where I was born and
 
 My expertise is in human geography, but I also have background in anthropology, sociology, computer science, environmental policy/conservation, biogeography, and statistics.
 
-If you'd like to contact me: email `julianholman96 at gmail dot com` or Twitter `easternhercules`.
+If you'd like to contact me: email `julianholman96 at gmail dot com` or Twitter `easternhercules`. Resume available upon request.
