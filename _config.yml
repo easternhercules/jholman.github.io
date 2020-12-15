@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/bio_photo.jpg"
   bio    : "UMBC Geography & Environmental Systems MS '21, BA + GIS Certificate '18"
   links:
-    - label: "Main"
-      icon: "fas fa-fw fa-link"
-      url: "https://easternhercules.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/easternhercules"
@@ -76,10 +73,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/easternhercules"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/easternhercules"
 
 defaults:
   # _posts
