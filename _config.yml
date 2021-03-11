@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : " "
+  name   : ""
   avatar : "/assets/images/bio_photo.jpg"
   bio    : "UMBC Geography & Environmental Systems MS '21, BA + GIS Certificate '18"
   links:
