@@ -6,7 +6,7 @@ permalink: /portfolio/
 <b>2021</b><br>
 <div class="img__wrap">
     <a href="https://github.com/easternhercules/sentiment-analysis-of-human-arthropod-interactions" title="Thesis: Sentiment Analysis of Human-Arthropod Interactions"><img class="img__img" src="/assets/images/presscreencap_thesis.png" alt="Sentiment Analysis of Human-Arthropod Interactions"/></a>
-  Thesis: Sentiment Analysis of Human-Arthropod Interactions (accepted by ProQuest for publication)
+  Thesis: Sentiment Analysis of Human-Arthropod Interactions (manuscript accepted by ProQuest for publication, repository is public)
 </div><br>
 
 
